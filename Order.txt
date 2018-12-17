@@ -1,0 +1,54 @@
+
+apple56
+123456
+Hang
+Gao
+1245 Fake St.
+Fantasy Land
+CA
+95007
+Vans Street Jacket
+Outerwear
+Male
+Blue
+M
+79.89
+5533112
+19999
+0
+
+apple56
+123456
+Hang
+Gao
+1245 Fake St.
+Fantasy Land
+CA
+95007
+Vans Street Jacket
+Outerwear
+Male
+Blue
+M
+79.89
+5533112
+29998
+0
+
+orange24
+Mypass123
+John
+Doe
+1234 Safe Dr.
+Milpitas
+CA
+12354
+Zara Ripped Jeans
+Bottom
+Female
+Gray
+M
+70
+2141252
+29999
+0

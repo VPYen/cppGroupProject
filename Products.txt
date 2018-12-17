@@ -1,0 +1,217 @@
+Product name: A&F Cotton Sweater
+Type: Outerwear
+Gender: Male
+Color: Gray
+Size: M
+ID: 1415123
+Price: 90.90
+
+Product name: Adidas Basketball Sweats
+Type: Bottom
+Gender: Male
+Color: Gray
+Size: M
+ID: 8293933
+Price: 57.89
+
+Product name: Air Jordan Tank Top
+Type: Top
+Gender: Male
+Color: Red
+Size: L
+ID: 4143621
+Price: 30.99
+
+Product name: Calvin Klein Dress Shirt
+Type: Top
+Gender: Male
+Color: White
+Size: M
+ID: 1264151
+Price: 45.78
+
+Product name: Chanel Crop Top
+Type: Top
+Gender: Female
+Color: Pink
+Size: S
+ID: 1192237
+Price: 35.99
+
+Product name: Chanel Night Gown
+Type: Dress
+Gender: Female
+Color: Blue
+Size: M
+ID: 2245121
+Price: 500.00
+
+Product name: Chanel Summer Dress
+Type: Dress
+Gender: Female
+Color: White
+Size: S
+ID: 6543210
+Price: 1545.99
+
+Product name: Coach Dress Coat
+Type: Outerwear
+Gender: Male
+Color: Brown
+Size: L
+ID: 2220445
+Price: 199.99
+
+Product name: Converse Running Shorts
+Type: Bottom
+Gender: Female
+Color: Black
+Size: S
+ID: 2214512
+Price: 48.98
+
+Product name: D&G Bomber Jacket
+Type: Outerwear
+Gender: Male
+Color: Black
+Size: M
+ID: 1241524
+Price: 200.78
+
+Product name: Gucci Dinner Dress
+Type: Dress
+Gender: Female
+Color: Black
+Size: S
+ID: 1248343
+Price: 3165.29
+
+Product name: Gucci Night Dress
+Type: Dress
+Gender: Female
+Color: White
+Size: S
+ID: 1184122
+Price: 2480.99
+
+Product name: H&M Hoodie
+Type: Outerwear
+Gender: Male
+Color: Orange
+Size: M
+ID: 1351227
+Price: 55.00
+
+Product name: Jack Jones Leather Jacket
+Type: Outerwear
+Gender: Male
+Color: Brown
+Size: M
+ID: 2141521
+Price: 500.99
+
+Product name: LACOSTE Polo Shirt
+Type: Top
+Gender: Male
+Color: Green
+Size: L
+ID: 2314656
+Price: 121.99
+
+Product name: Levi's New Arrival Jeans
+Type: Bottom
+Gender: Male
+Color: Blue
+Size: M
+ID: 2283745
+Price: 59.99
+
+Product name: Louis Vuitton Summer Dress
+Type: Dress
+Gender: Female
+Color: Red
+Size: M
+ID: 2294453
+Price: 5453.99
+
+Product name: Nike DryFit Tank
+Type: Top
+Gender: Female
+Color: White
+Size: S
+ID: 2282124
+Price: 38.89
+
+Product name: Nike Training Pants
+Type: Bottom
+Gender: Male
+Color: Black
+Size: M
+ID: 2299401
+Price: 64.99
+
+Product name: Prada Cashmere Sweater
+Type: Outerwear
+Gender: Female
+Color: Gray
+Size: S
+ID: 1928374
+Price: 3212.99
+
+Product name: Puma Long Sleeve Trainer
+Type: Top
+Gender: Male
+Color: Red
+Size: M
+ID: 2312724
+Price: 39.89
+
+Product name: Stanson's Blue Jeans
+Type: Bottom
+Gender: Male
+Color: Blue
+Size: L
+ID: 0123456
+Price: 36.00
+
+Product name: Supreme Crewneck Shirt
+Type: Top
+Gender: Male
+Color: Black
+Size: M
+ID: 2898397
+Price: 129.99
+
+Product name: UnderArmor Workout Shorts
+Type: Bottom
+Gender: Female
+Color: Pink
+Size: M
+ID: 2113124
+Price: 40.00
+
+Product name: Vans Street Hoodie
+Type: Outerwear
+Gender: Female
+Color: Gray
+Size: M
+ID: 1029384
+Price: 69.99
+
+Product name: Vans Street Jacket
+Type: Outerwear
+Gender: Male
+Color: Blue
+Size: M
+ID: 5533112
+Price: 79.89
+
+Product name: Victoria's Secret Yoga Pants
+Type: Bottom
+Gender: Female
+Color: White
+Size: M
+ID: 7239393
+Price: 59.78
+
+
